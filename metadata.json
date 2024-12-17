@@ -1,0 +1,14 @@
+{ "id": "habit",
+  "name": "Habit",
+  "shortName":"Habit",
+  "version":"0.01",
+  "description": "count your habits",
+  "icon": "app.png",
+  "tags": "",
+  "supports" : ["BANGLEJS2"],
+  "readme": "README.md",
+  "storage": [
+    {"name":"habit.app.js","url":"app.js"},
+    {"name":"habit.img","url":"app-icon.js","evaluate":true}
+  ]
+}
